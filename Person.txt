@@ -1,2 +1,3 @@
 Hello, I'm Deepanshu
-I forgot to make some chages
+I forgot to make some chages.
+Hey i'm learning git
