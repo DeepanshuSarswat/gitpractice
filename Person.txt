@@ -2,3 +2,4 @@ Hello, I'm Deepanshu
 I forgot to make some chages.
 Hey i'm learning git
 Add all files to staging and commit them at once
+it checkout -b [branch_name]
